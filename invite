@@ -1,0 +1,8 @@
+names = ['john ClEEse','Eric IDLE','michael']
+names1 = ['graHam chapman', 'TERRY', 'terry jones']
+names.append('smith')
+names.append('john')
+for name in names:
+        print( name.capitalize() + " you are invited to my 'Corona' party! ")
+for name in names1:
+        print( name.capitalize() + " you are invited to my 'Corona' party! ")
